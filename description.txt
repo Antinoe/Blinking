@@ -1,0 +1,31 @@
+With 1.4 came Eye States, a new feature granting a little more detail to the Player's current condition. What if it was extended a little further beyond a simple visual effect?
+
+Right now, this is very bare-bones. Most of what I want for this is not implemented yet.
+
+
+**Features**
+-Manual and Automatic Blinking, which limits the Player's vision upon performing. (configurable)
+-Holding eyes closed reduces Aggression. (configurable. Off by default.)
+-Lenient configuration.
+-Not much else for now, but more is planned.
+
+**Planned Features**
+-NPC Interaction, such as holding eyes closed to become immune to Medusa's stare, or allowing Garden Gnomes to move when blinking.
+-More integral usage in common gameplay.
+
+
+-v0.1-
+-Initial build.
+
+-v0.2-
+-Reduced the max Blink Cooldown from 600 to 240.
+-Set the interval of Blink Cooldown from 30 to 20.
+-Edited the descriptions of certain config options for better clarification.
+
+-v0.2.1-
+-Holding your eyes closed now reduces Aggression. (Off by default.)
+
+-v0.2.2-
+-Optimized the code.
+-Increased the Blink Timer's default value from 5 to 15.
+-Increased the Blink Cooldown's default value from 210 to 240.

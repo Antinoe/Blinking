@@ -1,0 +1,4 @@
+displayName = Blinking
+author =  Antinous
+version = 0.2.2
+homepage = https://github.com/Antinoe/Blinking
